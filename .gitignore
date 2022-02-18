@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+weather_key.py
+google_key.py
